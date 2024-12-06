@@ -4,77 +4,80 @@ export const servicesData = [
     price: "10,000 SEK inkl moms",
     features: [
       "DJ enbart under bröllopsfesten",
+      "Upp till 120 personer",
       "Danslokalen är i ett separat rum än middagen",
-      "Ljudsystem i världsklass",
-      "Disco kula",
+      "Ljudsystem i världsklass, Yamaha",
+      "Disco kula & effektbelysning",
       "Moving heads & miljöbelysning",
       "1 timma konsultationsmöte"
     ],
-    details: "Perfekt för lokaler där DJ:n kan rigga under under tiden som bröllopsmiddagen pågår (I en separat lokal). Något billigare pris när ni bara vill ha DJ till festen. Inkluderar omfattande ljud- och ljusuppsättning, musikplanering och en helkväll fylld med dans. Jag spelar så länge som ni orkar!. Milersättning tillkommer med 25 SEK/mil."
+    details: "Perfekt för lokaler där DJ:n kan rigga under under tiden som bröllopsmiddagen pågår (I en separat lokal). Något billigare pris när ni bara vill ha DJ till festen. Inkluderar omfattande ljud- och ljusuppsättning, musikplanering och en helkväll fylld med dans. Jag spelar så länge som ni orkar!. Se bokningsvillkor!"
   },
   {
     title: "Bröllops DJ - Paket 2",
     price: "13,000 SEK inkl moms",
     features: [
-      "DJ-tjänster under middag och fest",
+      "DJ enbart under bröllopsfesten",
+      "upp till 120 personer",
       "Bröllopsfesten är i samma lokal som middagen",
-      "Ljudsystem i världsklass",
-      "Disco kula",
+      "Ljudsystem i världsklass, Yamaha",
+      "Disco kula & effektbelysning",
       "Moving heads & miljöbelysning",
-      "Flera konsultationsmöten"
+      "1 timma konsultationsmöte"
     ],
-    details: "Idealiskt för evenemang där middag och fest är i samma lokal. Inkluderar förstärkt ljud- och ljusuppsättning, flera planeringsmöten och sömlös musik under både middag och fest. Jag spelar så länge som ni orkar!. Milersättning tillkommer med 25 SEK/mil."
+    details: "Idealiskt för evenemang där middag och fest är i samma lokal. Något högre pris för att DJ behöver anlända innan gästerna för att förbereda sitt. Inkluderar omfattande ljud- och ljusuppsättning, musikplanering och en helkväll fylld med dans. Jag spelar så länge som ni orkar!. Se bokningsvillkor"
   },
   {
     title: "Företagsfest",
-    price: "Utgångspris 12,000 SEK inkl moms",
+    price: "Utgångspris 10,000 SEK exkl moms",
     features: [
-      "Professionell DJ hela kvällen",
-      "Ljudsystem anpassat för lokalen",
+      "DJ hela kvällen",
+      "Ljudsystem i världsklass",
+      "upp till 120 personer",
       "Disco kula & effektbelysning",
       "Moving heads & miljöbelysning",
       "Möjlighet till musikquiz som förfest",
       "Konsultationsmöte för planering",
       "Anpassad musik efter företagets profil"
     ],
-    details: "Skapa en minnesvärd företagsfest med professionell underhållning! Paketet inkluderar allt ni behöver för en lyckad kväll - från stämningsfull bakgrundsmusik under minglet till full fart på dansgolvet. Möjlighet finns att kombinera med musikquiz som uppstart. Milersättning tillkommer med 25 SEK/mil."
+    details: "Skapa en minnesvärd företagsfest med professionell underhållning! Baspaketet inkluderar allt ni behöver för en lyckad kväll - från stämningsfull bakgrundsmusik under minglet till full fart på dansgolvet. Möjlighet finns att kombinera med musikquiz och andra tjänster. Anpassad offert kan tillkomma. Se bokningsvillkor"
   },
   {
     title: "Nattklubbsbokning",
     price: "Kontakta för pris",
     features: [
       "Professionell DJ-uppträdande",
-      "Lokalanpassad uppsättning",
       "Expert på att läsa av publiken",
-      "Flexibla genrer",
-      "Teknisk utrustning"
+      "Önskelåtar är självklart",
+      "Plannerar musikmix enligt önskemål",
+      "Lång erfarenhet av att knyta an musik efter koncept"
     ],
-    details: "Höj energin i din lokal med professionella DJ-tjänster anpassade för nattklubbsmiljöer. Inkluderar toppmodern utrustning och mångårig erfarenhet av att läsa av publiken. Milersättning tillkommer med 25 SEK/mil."
+    details: "Höj energin i din lokal med professionella DJ-tjänster anpassade för nattklubbsmiljöer med full förståelse hur affärmodellen för en krögare blir vinstgivande. Med mångårig erfarenhet av att läsa av publiken är jag säker att gästerna får en partykväll, positiv atmosfär på dansgolvet och ett varierande dansgolv. Man ska även hänga till baren! Se bokningsvillkor"
   },
   {
     title: "Musikquiz",
     price: "5,000 SEK inkl moms",
     features: [
       "1 timma interaktivt musikquiz",
-      "Professionellt ljudsystem",
+      "Ljudsystem samt bildteknik tillkommer",
       "Underhållande kategorier",
-      "Jag använder mig av Er TV-skärm"
+      "Jag använder mig av befintlig TV-skärm"
     ],
-    details: "En engagerande och interaktiv musikquiz-upplevelse perfekt för företagsevenemang, teambuilding eller privata fester. Jag använder befintligt bild-lösning. Milersättning tillkommer med 25 SEK/mil."
+    details: "En engagerande och underhållande musikquiz-upplevelse perfekt för företagsevenemang, teambuilding eller privata fester. Det kan vara ett blandat quiz eller enligt önskat tema. Jag använder befintligt bild-lösning. Offert kan tillkomma! Se bokningsvillkor"
   },
   {
     title: "Privatfest",
     price: "Utgångspris 10,000 SEK inkl moms",
     features: [
       "Anpassad kombination av tjänster",
-      "Perfekt för 30-40år fest",
-      "Ljudsystem i världsklass",
-      "Disco kula",
+      "Perfekt för 30-40-50 års party",
+      "Ljudsystem i världsklass, Yamaha",
+      "Disco kula & effektbelysning",
       "Moving heads & miljöbelysning",
       "1 timma konsultationsmöte",
       "Skräddarsytt musikval eller tema",
       "Personlig underhållningsplan"
     ],
-    details: "Skapa ditt perfekta underhållningspaket genom att kombinera våra tjänster. Oavsett om du vill ha en bröllops-DJ med musikquiz som pausunderhållning, eller ett klubbuppträdande med specialanpassad ljussättning - vi skapar ett paket som perfekt matchar din vision och budget. Milersättning tillkommer med 25 SEK/mil."
+    details: "Skapa ditt perfekta underhållningspaket som passar er fest och budget. Vare sig det är cykelfest, födelsedag eller temafest. Se bokningsvillkor"
   }
 ];
